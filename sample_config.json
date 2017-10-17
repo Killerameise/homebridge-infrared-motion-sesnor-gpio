@@ -13,7 +13,7 @@
     {
       "accessory": "MotionSensor",
       "name": "MotionSensor1",
-      "pin": 7
+      "pin": 2
     }
   ],
   "platforms": [
