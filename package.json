@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Killerameise/homebridge-infrared-motion-sesnor-gpio.git"
   },
   "bugs": {
-    "url": "issues"
+    "url": "https://github.com/Killerameise/homebridge-infrared-motion-sesnor-gpio/issues"
   },
   "dependencies": {
     "rpi-gpio": "^0.9.1"
@@ -23,6 +23,7 @@
   "keywords": [
     "motion",
     "ir",
+    "pir",
     "infrared",
     "sensor",
     "raspberry",
@@ -31,7 +32,8 @@
     "homebridge",
     "homebridge-plugin",
     "ios",
-    "homekit"
+    "homekit",
+    "gpio"
   ],
   "author": "Jaspar Mang",
   "license": "ISC"
